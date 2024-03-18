@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "ww-gggg",
+  "weeklyNoteTemplate": "PLANTILLAS/REGISTRO SEMANAL",
+  "weeklyNoteFolder": "REGISTRO/SEMANAL",
+  "localeOverride": "system-default"
+}
