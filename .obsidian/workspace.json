@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "684be3092ead8124",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb6a412e05ca71ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fbe8fa51f5fffdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05799953327f3810",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b38e97c8ad9025",
+        "type": "tabs",
+        "dimension": 72.48062015503876,
+        "children": [
+          {
+            "id": "8d548d78c3a42124",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c0707d6538b5280",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "79537df46c3fc303",
+        "type": "tabs",
+        "dimension": 27.519379844961247,
+        "children": [
+          {
+            "id": "bee2607bee932174",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0e488cd119cead6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce5f503a7a00c1c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dae24a159bd9b19",
+        "type": "tabs",
+        "dimension": 66.18217054263566,
+        "children": [
+          {
+            "id": "a93409d7764ee460",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef775465c8a01045",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db0fb779e25d65c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d62977fdd5a6ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "db594ccfd11cafa5",
+        "type": "tabs",
+        "dimension": 33.81782945736434,
+        "children": [
+          {
+            "id": "e64b4736e98783a3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8d548d78c3a42124",
+  "lastOpenFiles": [
+    "README.md",
+    "INCIDENCIAS/DICIEMBRE/MANTH-5433 [MAT] Controlar los tipos de documento identificativo posibles.md",
+    "REGISTRO/SEMANAL/12-2024.md",
+    "REGISTRO/SEMANAL/2024-W11.md",
+    "REGISTRO/SEMANAL/2024-03-25.md",
+    "REGISTRO/DIARIO/2024-03-25.md",
+    "REGISTRO/SEMANAL/2024-03-18.md",
+    "REGISTRO/DIARIO/2023-12-15.md",
+    "REGISTRO/DIARIO/2024-03-18.md",
+    "REGISTRO/DIARIO/2023-12-18.md",
+    "REGISTRO/DIARIO/2024-01-02.md",
+    "UTILIDADES/SINTAXIS OSIDIAN.md",
+    "UTILIDADES/ATAJOS DE TECLADO ECLIPSE.md",
+    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Crear metodo sql desde RCP.md",
+    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Separar y Cortar Partes de un String.md",
+    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA",
+    "UTILIDADES",
+    "REGISTRO/SEMANAL/2023-48.md",
+    "REGISTRO/SEMANAL",
+    "REGISTRO/DIARIO",
+    "REGISTRO",
+    "PLANTILLAS/REGRISTRO DIARIO.md",
+    "PLANTILLAS/REGISTRO SEMANAL.md",
+    "PLANTILLAS",
+    "INCIDENCIAS/ENERO/MANTH-3652/Resumen_Creditos.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Seguimiento.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102152955.png",
+    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102152716.png",
+    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144334.png",
+    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144324.png",
+    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144159.png",
+    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102143623.png",
+    "INCIDENCIAS/ENERO/MANTH-3652/Normas Permanencia.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Logo.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Fecha_Admision.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Datos_Acceso.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Cotutela.md",
+    "INCIDENCIAS/ENERO/MANTH-3652 Añadir más información al informe 11 de Doctorado.md",
+    "INCIDENCIAS/ENERO/MANTH-3652",
+    "INCIDENCIAS/ENERO",
+    "INCIDENCIAS/DICIEMBRE",
+    "INCIDENCIAS"
+  ]
+}
