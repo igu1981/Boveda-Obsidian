@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "RECURSOS/PLANTILLAS",
+  "templates_folder": "PLANTILLAS",
   "templates_pairs": [
     [
       "",
