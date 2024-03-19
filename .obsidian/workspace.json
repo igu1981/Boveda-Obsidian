@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "453d35b52e87ad6d",
+        "id": "d778cac3e6f5916e",
         "type": "tabs",
         "children": [
           {
-            "id": "a0fc4b380260b82d",
+            "id": "d617d593d8982237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
+                "file": "004 - RECURSOS 📌/JAVA/Tipos de Campos en Entidad Dominio.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
       {
         "id": "2dae24a159bd9b19",
         "type": "tabs",
-        "dimension": 66.18217054263566,
+        "dimension": 33.09108527131783,
         "children": [
           {
             "id": "a93409d7764ee460",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
+                "file": "004 - RECURSOS 📌/JAVA/Tipos de Campos en Entidad Dominio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +120,36 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
+                "file": "004 - RECURSOS 📌/JAVA/Tipos de Campos en Entidad Dominio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "1d62977fdd5a6ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "004 - RECURSOS 📌/JAVA/Tipos de Campos en Entidad Dominio.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1daf7cc59c1ac919",
+        "type": "tabs",
+        "dimension": 33.09108527131783,
+        "children": [
+          {
+            "id": "9d051ce90b430b07",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
             }
           },
           {
@@ -136,27 +162,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "1d62977fdd5a6ab3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md"
-              }
-            }
-          },
-          {
-            "id": "9d051ce90b430b07",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "db594ccfd11cafa5",
@@ -191,49 +198,49 @@
       "cmdr:Git Sync: Git Push": false
     }
   },
-  "active": "9d051ce90b430b07",
+  "active": "d617d593d8982237",
   "lastOpenFiles": [
-    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Clase de dominio con Auditoria.md",
-    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Crear metodo sql desde RCP.md",
-    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
-    "SINTAXIS OSIDIAN.md",
-    "PLANTILLAS/REGRISTRO DIARIO.md",
-    "PLANTILLAS/REGISTRO SEMANAL.md",
-    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Separar y Cortar Partes de un String.md",
-    "INCIDENCIAS/ENERO/MANTH-3652 Añadir más información al informe 11 de Doctorado.md",
-    "INCIDENCIAS/DICIEMBRE/MANTH-5433 [MAT] Controlar los tipos de documento identificativo posibles.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Cotutela.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102143623.png",
-    "INCIDENCIAS/ENERO/MANTH-3652/Normas Permanencia.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Logo.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Fecha_Admision.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Seguimiento.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Resumen_Creditos.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Datos_Acceso.md",
-    "Normas_Permanencia.md",
-    "README.md",
-    "REGISTRO/SEMANAL/12-2024.md",
-    "REGISTRO/SEMANAL/2024-W11.md",
-    "REGISTRO/SEMANAL/2024-03-25.md",
-    "REGISTRO/DIARIO/2024-03-25.md",
-    "REGISTRO/SEMANAL/2024-03-18.md",
+    "004 - RECURSOS 📌/JAVA/Separar y Cortar Partes de un String.md",
+    "004 - RECURSOS 📌/JAVA/Crear metodo sql desde RCP.md",
+    "004 - RECURSOS 📌/JAVA/Get y Set  del VO en RCP.md",
+    "004 - RECURSOS 📌/JAVA/Creacción de  función que recupera información.md",
+    "004 - RECURSOS 📌/JAVA/Clase de dominio con Auditoria.md",
     "REGISTRO/DIARIO/2023-12-15.md",
-    "REGISTRO/DIARIO/2024-03-18.md",
+    "REGISTRO/SEMANAL/12-2024.md",
+    "REGISTRO/DIARIO/2024-03-19.md",
     "REGISTRO/DIARIO/2023-12-18.md",
-    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA",
-    "UTILIDADES",
-    "REGISTRO/SEMANAL",
-    "REGISTRO/DIARIO",
-    "REGISTRO",
-    "PLANTILLAS",
-    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102152955.png",
-    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102152716.png",
-    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144334.png",
-    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144324.png",
-    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144159.png",
-    "INCIDENCIAS/ENERO/MANTH-3652",
-    "INCIDENCIAS/ENERO",
-    "INCIDENCIAS/DICIEMBRE",
-    "INCIDENCIAS"
+    "REGISTRO/DIARIO/2024-01-02.md",
+    "PLANTILLAS/PLANTILLA SEMANAL.md",
+    "REGISTRO/DIARIO/2024-03-25.md",
+    "PLANTILLAS/Plantilla Semanal.md",
+    "PLANTILLAS/Templete.md",
+    "PLANTILLAS/PLANTILLA DIARIA.md",
+    "PLANTILLAS/PLANTILLA NOTA.md",
+    "PLANTILLAS/PLANTILLA JAVA.md",
+    "PLANTILLAS/ejemplo.md",
+    "PLANTILLAS/Plantilla Diario.md",
+    "PLANTILLAS/REGISTRO SEMANAL.md",
+    "PLANTILLAS/REGISTRO SEMANAL 1.md",
+    "PLANTILLAS/REGRISTRO DIARIO.md",
+    "PLANTILLAS/REGRISTRO DIARIO 1.md",
+    "ATAJOS DE TECLADO ECLIPSE.md",
+    "Normas_Permanencia.md",
+    "SINTAXIS OSIDIAN.md",
+    "001 -  INCIDENCIAS 🎯/ENERO/MANTH-3652/Pasted image 20240102144159.png",
+    "REGISTROS/SEMANAL",
+    "REGISTROS/DIARIO",
+    "REGISTROS",
+    "004 - RECURSOS 📌/SQL",
+    "004 - RECURSOS 📌/JAVA",
+    "004 - RECURSOS 📌",
+    "003 - ARCHIVOS 📂",
+    "002 - MODULOS 📃/MAT",
+    "002 - MODULOS 📃/OFE",
+    "002 - MODULOS 📃/EXP",
+    "001 -  INCIDENCIAS 🎯/ENERO/MANTH-3652/Pasted image 20240102143623.png",
+    "001 -  INCIDENCIAS 🎯/ENERO/MANTH-3652/Pasted image 20240102152955.png",
+    "001 -  INCIDENCIAS 🎯/ENERO/MANTH-3652/Pasted image 20240102152716.png",
+    "001 -  INCIDENCIAS 🎯/ENERO/MANTH-3652/Pasted image 20240102144334.png",
+    "001 -  INCIDENCIAS 🎯/ENERO/MANTH-3652/Pasted image 20240102144324.png"
   ]
 }
