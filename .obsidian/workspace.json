@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb6a412e05ca71ab",
+        "id": "453d35b52e87ad6d",
         "type": "tabs",
         "children": [
           {
-            "id": "5fbe8fa51f5fffdb",
+            "id": "a0fc4b380260b82d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
       {
         "id": "79537df46c3fc303",
         "type": "tabs",
-        "dimension": 27.519379844961247,
+        "dimension": 27.519379844961243,
         "children": [
           {
             "id": "bee2607bee932174",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +143,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md"
               }
+            }
+          },
+          {
+            "id": "9d051ce90b430b07",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "db594ccfd11cafa5",
@@ -167,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,13 +187,31 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "cmdr:Git Sync: Git Push": false
     }
   },
-  "active": "8d548d78c3a42124",
+  "active": "9d051ce90b430b07",
   "lastOpenFiles": [
-    "README.md",
+    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Clase de dominio con Auditoria.md",
+    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Crear metodo sql desde RCP.md",
+    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Elegir 1º valor de un combo.md",
+    "SINTAXIS OSIDIAN.md",
+    "PLANTILLAS/REGRISTRO DIARIO.md",
+    "PLANTILLAS/REGISTRO SEMANAL.md",
+    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Separar y Cortar Partes de un String.md",
+    "INCIDENCIAS/ENERO/MANTH-3652 Añadir más información al informe 11 de Doctorado.md",
     "INCIDENCIAS/DICIEMBRE/MANTH-5433 [MAT] Controlar los tipos de documento identificativo posibles.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Cotutela.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102143623.png",
+    "INCIDENCIAS/ENERO/MANTH-3652/Normas Permanencia.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Logo.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Fecha_Admision.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Seguimiento.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Resumen_Creditos.md",
+    "INCIDENCIAS/ENERO/MANTH-3652/Datos_Acceso.md",
+    "Normas_Permanencia.md",
+    "README.md",
     "REGISTRO/SEMANAL/12-2024.md",
     "REGISTRO/SEMANAL/2024-W11.md",
     "REGISTRO/SEMANAL/2024-03-25.md",
@@ -194,34 +220,17 @@
     "REGISTRO/DIARIO/2023-12-15.md",
     "REGISTRO/DIARIO/2024-03-18.md",
     "REGISTRO/DIARIO/2023-12-18.md",
-    "REGISTRO/DIARIO/2024-01-02.md",
-    "UTILIDADES/SINTAXIS OSIDIAN.md",
-    "UTILIDADES/ATAJOS DE TECLADO ECLIPSE.md",
-    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Crear metodo sql desde RCP.md",
-    "UTILIDADES/FRAGMENTOS DE CODIGO JAVA/Separar y Cortar Partes de un String.md",
     "UTILIDADES/FRAGMENTOS DE CODIGO JAVA",
     "UTILIDADES",
-    "REGISTRO/SEMANAL/2023-48.md",
     "REGISTRO/SEMANAL",
     "REGISTRO/DIARIO",
     "REGISTRO",
-    "PLANTILLAS/REGRISTRO DIARIO.md",
-    "PLANTILLAS/REGISTRO SEMANAL.md",
     "PLANTILLAS",
-    "INCIDENCIAS/ENERO/MANTH-3652/Resumen_Creditos.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Seguimiento.md",
     "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102152955.png",
     "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102152716.png",
     "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144334.png",
     "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144324.png",
     "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102144159.png",
-    "INCIDENCIAS/ENERO/MANTH-3652/Pasted image 20240102143623.png",
-    "INCIDENCIAS/ENERO/MANTH-3652/Normas Permanencia.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Logo.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Fecha_Admision.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Datos_Acceso.md",
-    "INCIDENCIAS/ENERO/MANTH-3652/Cotutela.md",
-    "INCIDENCIAS/ENERO/MANTH-3652 Añadir más información al informe 11 de Doctorado.md",
     "INCIDENCIAS/ENERO/MANTH-3652",
     "INCIDENCIAS/ENERO",
     "INCIDENCIAS/DICIEMBRE",
