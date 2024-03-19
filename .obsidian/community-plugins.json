@@ -11,6 +11,8 @@
   "obsidian-copy-block-link",
   "obsidian-outliner",
   "obsidian-sortable",
-  "obsidian-languagetool-plugin",
-  "cmdr"
+  "cmdr",
+  "search-on-internet",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-emoji-toolbar"
 ]
